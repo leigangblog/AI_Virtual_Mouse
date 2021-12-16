@@ -1,0 +1,7 @@
+autopy==4.0.0
+matplotlib==3.4.3
+mediapipe==0.8.9.1
+numpy==1.21.3
+opencv-contrib-python==4.5.4.58
+opencv-python==4.5.4.60
+
